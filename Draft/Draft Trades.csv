@@ -1,0 +1,6 @@
+trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,conditional,pfr_id,pfr_name
+1,2024,2024-04-25,JAX,MIN,2024,1,17,N,,
+1,2024,2024-04-25,MIN,JAX,2024,1,23,N,,
+1,2024,2024-04-25,MIN,JAX,2024,5,167,N,,
+1,2024,2024-04-25,MIN,JAX,2025,3,80,N,,
+1,2024,2024-04-25,MIN,JAX,2025,4,112,N,,
